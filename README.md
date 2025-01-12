@@ -1,38 +1,15 @@
-## Hi there, I'm Abu Zarraziq 👋
+# 💫 About Me:
+I'm currently working on React and DSA.
 
-### About Me
-I am a passionate developer with a keen interest in open source projects and collaborative development. I enjoy learning new technologies and continuously improving my skills.
 
-- 🌱 I’m currently learning advanced algorithms and data structures.
-- 🔭 I’m working on several exciting projects in Python and JavaScript.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about web development, machine learning, and software engineering principles.
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abuzarraziqgithub&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abuzarraziqgithub&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abuzarraziqgithub&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+---
+[![](https://visitcount.itsvg.in/api?id=abuzarraziqgithub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### GitHub Stats
-![Abu Zarraziq's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuzarraziqgithub&show_icons=true&theme=radical)
-
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuzarraziqgithub&layout=compact&theme=radical)
-
-### Projects
-- [Project 1](https://github.com/abuzarraziqgithub/project1) - A brief description of project 1.
-- [Project 2](https://github.com/abuzarraziqgithub/project2) - A brief description of project 2.
-- [Project 3](https://github.com/abuzarraziqgithub/project3) - A brief description of project 3.
-
-### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-
-Thank you for visiting my profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
