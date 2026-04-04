@@ -8,5 +8,4 @@
     <a href="https://github.com/SystemVll/readme-animated-sweetbanner/issues"><img src="https://img.shields.io/github/issues/SystemVll/readme-animated-sweetbanner" alt="Issues Badge"/></a>
     <a href="https://github.com/SystemVll/readme-animated-sweetbanner/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/SystemVll/readme-animated-sweetbanner?color=2b9348"></a>
     <a href="https://github.com/SystemVll/readme-animated-sweetbanner/blob/master/LICENSE"><img src="https://img.shields.io/github/license/SystemVll/readme-animated-sweetbanner?color=2b9348" alt="License Badge"/></a>
-</div>
 
